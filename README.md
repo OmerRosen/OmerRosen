@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<img align="center" src="https://i.imgur.com/QQK0dU6.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Hello, I'm Omer" width="200"/>
+<img align="center" src="https://www.neshaminy.org/cms/lib/PA01000466/Centricity/Domain/449/science_animated_gif_by_mysteriousshamrock-d5p3shf.gif" alt="Hello, I'm Omer" width="200"/>
 
 <h3 align="center">An aspiring Data Scientist and a Query Godmother</h3>
 
