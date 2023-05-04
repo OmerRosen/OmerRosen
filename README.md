@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **React, C#, Computer Vision**
 
-- 📝 I regularly stream on Twitch [https://www.twitch.tv/videohamster/about](https://www.twitch.tv/videohamster/about)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-rosen-b3652041/](https://www.linkedin.com/in/omer-rosen-b3652041/)
 
-- ⚡ Fun fact **I have an active Twitch Account**
+- ⚡ Fun fact **I stream regularly on Twitch** [https://www.twitch.tv/videohamster/about](https://www.twitch.tv/videohamster/about) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
