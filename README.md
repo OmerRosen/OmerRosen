@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align="center" src="https://i.imgur.com/QQK0dU6.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Hello, I'm Omer" width="200"/>
+
 <h3 align="center">An aspiring Data Scientist and a Query Godmother</h3>
 
 - 🔭 I’m currently working on [Imdb Prediction Model](https://github.com/OmerRosen/Imdb-Prediction-Model)
