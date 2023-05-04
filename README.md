@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
+<img align="center" src="https://i.imgur.com/QQK0dU6.gif" alt="Hello, I'm Omer" width="200"/>
 <h3 align="center">An aspiring Data Scientist and a Query Godmother</h3>
 
 - 🔭 I’m currently working on [Imdb Prediction Model](https://github.com/OmerRosen/Imdb-Prediction-Model)
