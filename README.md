@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Omer</h1>
-<h3 align="left">Experienced Full-Stack Developer | Data Scientist | SQL Expert (Query Godmother)</h3>
+<h3 align="left">Experienced Backend Developer with Front End knowladge | SQL Expert (Query Godmother) | Data Science Enthusiast | </h3>
 <img align="center" src="https://www.neshaminy.org/cms/lib/PA01000466/Centricity/Domain/449/science_animated_gif_by_mysteriousshamrock-d5p3shf.gif" alt="Hello, I'm Omer" width="200"/>
 
 - 🔭 I’m currently working on [Imdb Prediction Model](https://github.com/OmerRosen/Imdb-Prediction-Model)
 
-- 🌱 I’m currently working with **React, C#, Python, SQL**
+- 🌱 I’m currently working with **C#, Python, SQL, React**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-rosen-b3652041/](https://www.linkedin.com/in/omer-rosen-b3652041/)
 
